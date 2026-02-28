@@ -12,7 +12,7 @@ This server exposes a tool that retrieves, structures shipment data from a track
 ```
 docker build -t shipment_mcp_server:latest .
 ```
-The image will require ~5 GB of disc space
+The image will require ~5 GB of disk space
 #### 4. Set up Claude Desktop
 - Follow the installation guide for installing Claude Desktop for your system (if you do not already have it)
 - Open the app, then log in or create a new account
