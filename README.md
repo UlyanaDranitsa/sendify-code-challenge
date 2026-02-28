@@ -3,10 +3,10 @@
 ## About this MCP server
 This server exposes a tool that retrieves, structures shipment data from a tracking website (https://www.dbschenker.com/app/tracking-public/), as well as connects and provides context to a host, in this case, Claude for Desktop. You can also use any other LLM as an MCP host.
 ## Instructions on how to run and test the server
-#### 1. Follow Docker Desktop installation guide for your OS
+#### 1. Follow the Docker Desktop installation guide for your OS
 [Install Docker Desktop for your system](https://docs.docker.com/manuals/) (if you do not already have it)
 #### 2. Clone this repository into the directory of your choice on your computer
-#### 3. Create Вocker image based on the Dockerfile
+#### 3. Create Docker image based on the Dockerfile
 - Open the root folder of the repository you just cloned inside the terminal
 - Run the following command:
 ```
